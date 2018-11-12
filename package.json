@@ -1,6 +1,6 @@
 {
   "name": "react-time-machine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility library for React and Redux with hot reloading",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,8 @@
     "react",
     "redux",
     "hot reloading",
-    "persist"
+    "persist",
+    "time machine"
   ],
   "author": "Messi Li",
   "license": "MIT",
