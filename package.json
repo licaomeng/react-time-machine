@@ -1,0 +1,28 @@
+{
+  "name": "react-time-machine",
+  "version": "1.0.0",
+  "description": "Utility library for React and Redux with hot reloading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/licaomeng/react-time-machine.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "hot reloading",
+    "persist"
+  ],
+  "author": "Messi Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/licaomeng/react-time-machine/issues"
+  },
+  "homepage": "https://github.com/licaomeng/react-time-machine#readme",
+  "devDependencies": {
+    "lodash": "^4.17.4"
+  }
+}
