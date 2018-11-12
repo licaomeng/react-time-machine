@@ -1,6 +1,6 @@
 {
   "name": "react-time-machine",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Utility library for React and Redux with hot reloading",
   "main": "index.js",
   "scripts": {
