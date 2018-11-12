@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/licaomeng/react-time-machine#readme",
   "devDependencies": {
+  },
+  "dependencies": {
     "lodash": "^4.17.4"
   },
   "peerDependencies": {
